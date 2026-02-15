@@ -1,6 +1,6 @@
 # Hi, I'm Charan Tatineni 👋
 
-## 🚀 Data Engineer | Distributed Systems | Cloud Infrastructure
+## 🚀 Data Engineer | Infrastructure | Platform Engineer
 
 I design and own production-grade data platforms that power product, engineering, and finance decisions.
 
